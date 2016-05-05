@@ -34,6 +34,10 @@
         more information.
     </description>
 
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+
 
     <!-- Context initialization parameters that define shared
          String constants used within your application, which
@@ -60,6 +64,14 @@
             and comments about this application should be addressed.
         </description>
     </context-param>
+    <servlet>
+        <servlet-name>Atacar</servlet-name>
+        <servlet-class>ec.com.se.business.Atacar</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Atacar</servlet-name>
+        <url-pattern>/atacar</url-pattern>
+    </servlet-mapping>
 
 
     <!-- Define the default session timeout for your application,
