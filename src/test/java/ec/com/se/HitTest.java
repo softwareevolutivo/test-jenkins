@@ -11,6 +11,6 @@ public class HitTest {
     @Test
     public void shouldReturnFivePoints() {
         Hit hit = new Hit();
-        Assert.assertEquals("Player push puch", 4, hit.pushPunch());
+        Assert.assertEquals("Player push puch", 5, hit.pushPunch());
     }
 }
