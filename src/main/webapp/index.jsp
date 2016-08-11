@@ -12,7 +12,7 @@
     <title>SE Demo Continuous Delivery</title>
 </head>
 <body>
-<h3>Saludos Software Evolutivo EQUINOCCIAL</h3>
+<h3>Saludos Software Evolutivo son las 17</h3>
 <h5>Listos para combatir!!! SEWorker</h5>
 
 <%
