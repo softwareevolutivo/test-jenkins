@@ -5,6 +5,6 @@ package ec.com.se.business;
  */
 public class Hit {
     public int pushPunch() {
-        return 7;
+        return 5;
     }
 }
