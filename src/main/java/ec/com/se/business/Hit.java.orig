@@ -1,0 +1,14 @@
+package ec.com.se.business;
+
+/**
+ * Created by pazfernando on 1/29/16.
+ */
+public class Hit {
+    public int pushPunch() {
+<<<<<<< HEAD
+        return 5;
+=======
+        return 10;
+>>>>>>> 39aafd41098c5b50da6c9ee54d66484fc491c8c1
+    }
+}
