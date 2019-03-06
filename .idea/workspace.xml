@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d199a1c6-30e9-44e1-8aac-f70241ec2a58" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/test_jenkins_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/test_jenkins_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/test_jenkins_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/test_jenkins_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ec/com/se/HitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ec/com/se/HitTest.java" afterDir="false" />
     </list>
     <ignored path="test-jenkins.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -464,12 +460,12 @@
       <workItem from="1550585222238" duration="488000" />
       <workItem from="1550594041947" duration="14000" />
       <workItem from="1550756304486" duration="1132000" />
-      <workItem from="1551881602257" duration="460000" />
+      <workItem from="1551881602257" duration="1299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85726000" />
+    <option name="totallyTimeSpent" value="86565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="768" extended-state="6" />
@@ -640,7 +636,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
