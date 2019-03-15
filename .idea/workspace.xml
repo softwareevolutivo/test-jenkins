@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d199a1c6-30e9-44e1-8aac-f70241ec2a58" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/com/se/business/Hit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/com/se/business/Hit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <ignored path="test-jenkins.iws" />
@@ -23,15 +23,33 @@
     <favorites_list name="test-jenkins" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ec/com/se/HitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="69" lean-forward="true" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ec/com/se/business/Hit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="120">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,8 +82,8 @@
         <option value="$PROJECT_DIR$/Jenkinsfile" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/src/test/java/ec/com/se/HitTest.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/ec/com/se/business/Hit.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
       </list>
     </option>
   </component>
@@ -83,54 +101,22 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="1505" />
-    <option name="y" value="208" />
-    <option name="width" value="1366" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
     <option name="height" value="768" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="test-jenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-jenkins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-jenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-jenkins" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-jenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-jenkins" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-jenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-jenkins" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551978184623" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../kywi-seller-backend" />
@@ -444,15 +430,17 @@
       <workItem from="1550594041947" duration="14000" />
       <workItem from="1550756304486" duration="1132000" />
       <workItem from="1551881602257" duration="2420000" />
-      <workItem from="1551972338790" duration="1350000" />
+      <workItem from="1551972338790" duration="1996000" />
+      <workItem from="1552398348532" duration="609000" />
+      <workItem from="1552653360741" duration="729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89036000" />
+    <option name="totallyTimeSpent" value="91020000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1365" y="-22" width="1922" height="1103" extended-state="6" />
+    <frame x="-1" y="0" width="1368" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4937304" weight="0.18890075" />
@@ -603,26 +591,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ec/com/se/HitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="165">
+          <caret line="13" column="69" lean-forward="true" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ec/com/se/business/Hit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="120">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
