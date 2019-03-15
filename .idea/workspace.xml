@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d199a1c6-30e9-44e1-8aac-f70241ec2a58" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/com/se/business/Hit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/com/se/business/Hit.java" afterDir="false" />
     </list>
     <ignored path="test-jenkins.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -42,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ec/com/se/business/Hit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="105">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding>
                 <element signature="e#121#122#0" expanded="true" />
                 <element signature="e#145#146#0" expanded="true" />
@@ -82,8 +81,8 @@
         <option value="$PROJECT_DIR$/Jenkinsfile" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/src/test/java/ec/com/se/HitTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ec/com/se/business/Hit.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/ec/com/se/business/Hit.java" />
       </list>
     </option>
   </component>
@@ -432,12 +431,12 @@
       <workItem from="1551881602257" duration="2420000" />
       <workItem from="1551972338790" duration="1996000" />
       <workItem from="1552398348532" duration="609000" />
-      <workItem from="1552653360741" duration="729000" />
+      <workItem from="1552653360741" duration="789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91020000" />
+    <option name="totallyTimeSpent" value="91080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="768" extended-state="6" />
@@ -596,21 +595,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ec/com/se/business/Hit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ec/com/se/business/Hit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
