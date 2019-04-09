@@ -12,7 +12,7 @@
     <title>SE Demo Continuous Delivery</title>
 </head>
 <body>
-<h3>Hola reunion NO OK PRUEBA</h3>
+<h3>Hola reunion NIPRO</h3>
 <h5>Listos para combatir!!! SEWorker</h5>
 
 <%
