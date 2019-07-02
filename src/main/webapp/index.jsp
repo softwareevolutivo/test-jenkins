@@ -13,7 +13,7 @@
 </head>
 <body>
 <h3>Hola reunion SOFTEVO</h3>
-<h5>Listos para la integraci&uacute;n Continua?!!! SEWorker</h5>
+<h5>Listos para la integraci&oacute;n Continua?!!! SEWorker</h5>
 
 <%
     int life = 100;
