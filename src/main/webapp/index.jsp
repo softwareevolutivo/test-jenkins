@@ -12,8 +12,8 @@
     <title>SE Demo Continuous Delivery</title>
 </head>
 <body>
-<h3>Hola reunion Ecuasanitas</h3>
-<h5>Listos para combatir!!! SEWorker</h5>
+<h3>Hola reunion SOFTEVO</h3>
+<h5>Listos para la integraci&uacute;n Continua?!!! SEWorker</h5>
 
 <%
     int life = 100;
