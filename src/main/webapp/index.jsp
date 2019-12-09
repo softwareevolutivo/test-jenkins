@@ -12,7 +12,7 @@
     <title>SE Demo Continuous Delivery</title>
 </head>
 <body>
-<h3>Hola reunion SOFTEVO</h3>
+<h3>Hola reunion PATPRIMO</h3>
 <h5>Listos para la integraci&oacute;n Continua?!!! SEWorker</h5>
 
 <%
